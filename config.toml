@@ -1,0 +1,6 @@
+baseURL = "http://devconfsg.github.io/"
+languageCode = "en-us"
+title = "Developer Conferences in Singapore"
+
+[Params]
+  Author = "Justin Lee"
