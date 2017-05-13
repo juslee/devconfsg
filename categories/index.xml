@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Categories on Developer Conferences in Singapore </title>
+    <link>http://devconfsg.github.io/categories/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Language</title>
+      <link>http://devconfsg.github.io/categories/language/</link>
+      <pubDate>Sat, 13 May 2017 09:04:34 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://devconfsg.github.io/categories/language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tags on Developer Conferences in Singapore </title>
+    <link>http://devconfsg.github.io/tags/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2017-05-13 09:04:34 -0700 PDT</updated>
+    
+    <item>
+      <title>Go</title>
+      <link>http://devconfsg.github.io/tags/go/</link>
+      <pubDate>Sat, 13 May 2017 09:04:34 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://devconfsg.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>http://devconfsg.github.io/tags/ruby/</link>
+      <pubDate>Fri, 12 May 2017 23:50:14 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://devconfsg.github.io/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

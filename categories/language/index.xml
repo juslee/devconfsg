@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Language on Developer Conferences in Singapore </title>
+    <link>http://devconfsg.github.io/categories/language/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2017-05-13 09:04:34 -0700 PDT</updated>
+    
+    <item>
+      <title>GopherCon Singapore</title>
+      <link>http://devconfsg.github.io/events/gophercon-sg/</link>
+      <pubDate>Sat, 13 May 2017 09:04:34 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://devconfsg.github.io/events/gophercon-sg/</guid>
+      <description>&lt;p&gt;GopherCon Singapore is a Go programming language (Golang) conference in Southeast Asia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Red Dot Ruby Conf</title>
+      <link>http://devconfsg.github.io/events/red-dot-ruby-conf/</link>
+      <pubDate>Fri, 12 May 2017 23:50:14 PDT</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://devconfsg.github.io/events/red-dot-ruby-conf/</guid>
+      <description>&lt;p&gt;The largest Ruby conference in South East Asia is happening on 22 and 23 June 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
