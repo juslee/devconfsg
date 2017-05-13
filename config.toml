@@ -1,4 +1,4 @@
-baseURL = "http://devconfsg.github.io/"
+baseURL = "http://juslee.github.io/devconfsg"
 languageCode = "en-us"
 title = "Developer Conferences in Singapore"
 theme = "simple-a"
