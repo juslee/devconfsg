@@ -5,7 +5,7 @@ dateEnd = "2017-05-26T08:00:00+08:00"
 eventUrl = "https://2017.gophercon.sg/"
 tags = ["go"]
 categories = ["language"]
-draft = true
+draft = false
 title = "GopherCon Singapore"
 +++
 

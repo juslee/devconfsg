@@ -5,7 +5,7 @@ dateEnd = "2017-06-23T08:00:00+08:00"
 eventUrl = "https://www.reddotrubyconf.com"
 tags = ["ruby"]
 categories = ["language"]
-draft = true
+draft = false
 title = "Red Dot Ruby Conf"
 +++
 
